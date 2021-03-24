@@ -1,0 +1,8 @@
+{
+  "name": "rule-validator",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "repository": "https://github.com/Lucienrl/rule-validator.git",
+  "author": "lucienrl",
+  "license": "MIT"
+}
