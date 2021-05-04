@@ -30,7 +30,6 @@ function resolveResp(value: any, respParams: InstallerParams, opts: RuleOptions)
 }
 
 // TODO: 支持添加所有规则的拦截器
-
 @autoBindClass
 // @ts-ignore
 export default class RuleValidator {
